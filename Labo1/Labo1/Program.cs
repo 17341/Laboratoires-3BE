@@ -124,6 +124,4 @@ namespace Labo1
             return formule;
         }
     }
-
-
 }

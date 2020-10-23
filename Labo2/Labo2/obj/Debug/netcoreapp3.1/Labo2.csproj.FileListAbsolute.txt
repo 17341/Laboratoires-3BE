@@ -1,0 +1,13 @@
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.csprojAssemblyReference.cache
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.AssemblyInfoInputs.cache
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.AssemblyInfo.cs
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.csproj.CoreCompileInputs.cache
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.exe
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.deps.json
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.runtimeconfig.json
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.runtimeconfig.dev.json
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.dll
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\bin\Debug\netcoreapp3.1\Labo2.pdb
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.dll
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.pdb
+C:\Users\khale\source\repos\17341\Laboratoires-3BE\Labo2\Labo2\obj\Debug\netcoreapp3.1\Labo2.genruntimeconfig.cache
